@@ -1,2 +1,6 @@
 # Unix-Cheat-Sheet
-Useful Unix commands
+
+#### Copy file content to the clipboard  
+on macOS ```pbcopy <file```  
+on linux ```xcel <file```
+
