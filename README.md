@@ -2,5 +2,5 @@
 
 #### Copy file content to the clipboard  
 on macOS ```pbcopy <file```  
-on linux ```xcel <file```
+on linux ```xsel <file```
 
